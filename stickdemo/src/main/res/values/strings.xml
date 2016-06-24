@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StickDemo</string>
+
+    <string name="tool_name">标题demo</string>
+    <string name="tool_name1">标题gradle</string>
+
+    <string name="menu_main_about">关于</string>
+    <string name="menu_main_home_page">首页</string>
+    <string name="menu_main_top_github">地址</string>
+</resources>
